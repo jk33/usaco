@@ -1,2 +1,0 @@
-# usaco
-usaco code
